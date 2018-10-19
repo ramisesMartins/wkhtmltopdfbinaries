@@ -1,0 +1,2 @@
+wkhtmltopdf filter=lfs diff=lfs merge=lfs -text
+wkhtmltoimage filter=lfs diff=lfs merge=lfs -text
